@@ -1,6 +1,6 @@
 import socket
 import threading
-from customtkinter import *
+from customtkinter import * #customtkinter because better GUI than 1990 style OG tkinter
 import tkinter
 from tkinter.messagebox import showerror, showinfo
 from pygame import mixer
