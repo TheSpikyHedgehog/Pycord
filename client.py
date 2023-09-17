@@ -149,8 +149,8 @@ def input_server_info():
             else:
                 print("This is an error")
         except Exception as ex:
-            # showerror("Wrong Info", "Something went wrong. Please try again. Hint(s): Is your port a number?")
-            print(ex)
+            showerror("Wrong Info", "Something went wrong. Please try again. Hint(s): Is your port a number?")
+            # print(ex)
 
     CTkLabel(create, text="Join Chat", font=("Tahoma", 40)).pack(pady=80)
     name = CTkEntry(master=create,
