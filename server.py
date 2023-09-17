@@ -1,7 +1,4 @@
-'''
-Important Note: This server might be just for testing purposes.
-More practical servers (might) be made later.
-'''
+
 
 import socket
 import threading
