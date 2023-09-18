@@ -1,6 +1,15 @@
 # Pycord
 A chatroom in python
 
-Note:
+## Features:
+- Client
+- Server
 
-You must have `customtkinter` and `pygame` installed. (`pip install customtkinter` and `pip install pygame`)
+## Setup (Server)
+Execute `server.py` and enter the required information
+
+## Setup (Client)
+Execute `client.py`
+
+---
+Made by TheSpikyHedgehog
