@@ -12,4 +12,4 @@ Execute `server.py` and enter the required information
 Execute `client.py`
 
 ---
-Made by TheSpikyHedgehog
+Made by TheSpikyHedgehog (c) 2023
